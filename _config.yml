@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -9,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Nirmal Mani
 tagline:          'My development notes'
-description:      'Repository of my thoughts on technology'
+description:      'Passionate about solving engineering problems, scaling distributed systems, learning new technologies'
 url:              https://nirmal-mani.github.io
 baseurl:          /
 
 author:
   name:           'Nirmal Mani'
-  url:            https://twitter.com/mdo
+  url:            https://github.com/nirmal-mani
 
 paginate:         3
 
@@ -23,4 +22,4 @@ paginate:         3
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/nirmal-mani
+  repo:           https://github.com/nirmal-mani
